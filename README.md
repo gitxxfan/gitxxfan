@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 welcome visit https://ttdownloader.xyz to download videos and songs from Tiktok.
-Tiktok downloader without watermark.
+Tiktok video download without watermark.
 Tiktok to mp3 file.
 <!---
 gitxxfan/gitxxfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
